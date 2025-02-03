@@ -1,5 +1,5 @@
 # Ctrl-Cmd-F-Control-Command-Hear
-README (Revised Version 22050203)
+README (Revised Version 20250203)
 
 Ever wanted to share a specific part of a video but can’t remember the timestamp?
 Ever skimmed through a long lecture and wished you could jump straight to the relevant part?
