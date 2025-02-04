@@ -1,0 +1,13 @@
+Word,Timestamp (seconds),YouTube URL
+❌,0,https://www.youtube.com/watch?v=fcPWU59Luoc&ab_channel=T%26H-Inspiration%26Motivation&t=0
+ERROR:,1,https://www.youtube.com/watch?v=fcPWU59Luoc&ab_channel=T%26H-Inspiration%26Motivation&t=1
+Google,2,https://www.youtube.com/watch?v=fcPWU59Luoc&ab_channel=T%26H-Inspiration%26Motivation&t=2
+Speech,3,https://www.youtube.com/watch?v=fcPWU59Luoc&ab_channel=T%26H-Inspiration%26Motivation&t=3
+API,4,https://www.youtube.com/watch?v=fcPWU59Luoc&ab_channel=T%26H-Inspiration%26Motivation&t=4
+request,5,https://www.youtube.com/watch?v=fcPWU59Luoc&ab_channel=T%26H-Inspiration%26Motivation&t=5
+failed:,6,https://www.youtube.com/watch?v=fcPWU59Luoc&ab_channel=T%26H-Inspiration%26Motivation&t=6
+recognition,7,https://www.youtube.com/watch?v=fcPWU59Luoc&ab_channel=T%26H-Inspiration%26Motivation&t=7
+request,8,https://www.youtube.com/watch?v=fcPWU59Luoc&ab_channel=T%26H-Inspiration%26Motivation&t=8
+failed:,9,https://www.youtube.com/watch?v=fcPWU59Luoc&ab_channel=T%26H-Inspiration%26Motivation&t=9
+Bad,10,https://www.youtube.com/watch?v=fcPWU59Luoc&ab_channel=T%26H-Inspiration%26Motivation&t=10
+Request,11,https://www.youtube.com/watch?v=fcPWU59Luoc&ab_channel=T%26H-Inspiration%26Motivation&t=11

@@ -1,0 +1,1 @@
+❌ ERROR: Google Speech API request failed: recognition request failed: Bad Request

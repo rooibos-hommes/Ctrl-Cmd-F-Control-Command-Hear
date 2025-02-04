@@ -1,0 +1,10 @@
+Flask
+pytube
+pydub
+SpeechRecognition
+yt-dlp
+youtube-transcript-api
+threading
+webbrowser
+subprocess
+time
