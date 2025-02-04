@@ -8,7 +8,7 @@ Ever wanted to share a specific part of a video but can’t remember the timesta
 Ever skimmed through a long lecture and wished you could jump straight to the relevant part?
 This repository is dedicated to building a tool that helps locate timestamps in videos based on specific spoken words.
 
-This repository provides a Python-based tool that helps locate timestamps in YouTube videos based on spoken words.
+This repository provides a HTML and Python-based tool that helps locate timestamps in YouTube videos based on spoken words.
 
 🎯 How It Works
 1️⃣ Downloads the video audio from YouTube.
